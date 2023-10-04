@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uZLtLDyU3i6qJW+6W364h0MudpfF7mVpWuqehKHVdOopyT7VeAWh3urcK0cX3VwHtekMy8oW4qeYdAP6fZx8AA==",
+  "dgSpecHash": "1NXgPO9g9aHKI1mbQ3XMNSPMRDzbqsU+sA748i4Bh/opDKL53mmWSgK/I11k29iGxBZOwmAnQhdKH7uTy+CnYw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\C#\\Tasks\\Tasks.csproj",
+  "projectFilePath": "C:\\dev\\C#\\Average\\Tasks.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

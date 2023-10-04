@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\C#\\Tasks\\Tasks.csproj": {}
+    "C:\\dev\\C#\\Average\\Tasks.csproj": {}
   },
   "projects": {
-    "C:\\dev\\C#\\Tasks\\Tasks.csproj": {
+    "C:\\dev\\C#\\Average\\Tasks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\C#\\Tasks\\Tasks.csproj",
+        "projectUniqueName": "C:\\dev\\C#\\Average\\Tasks.csproj",
         "projectName": "Tasks",
-        "projectPath": "C:\\dev\\C#\\Tasks\\Tasks.csproj",
+        "projectPath": "C:\\dev\\C#\\Average\\Tasks.csproj",
         "packagesPath": "C:\\Users\\muril_00frcc1\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\C#\\Tasks\\obj\\",
+        "outputPath": "C:\\dev\\C#\\Average\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\muril_00frcc1\\AppData\\Roaming\\NuGet\\NuGet.Config"

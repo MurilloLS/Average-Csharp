@@ -12,3 +12,17 @@ C:\dev\C#\Tasks\obj\Debug\net7.0\refint\Tasks.dll
 C:\dev\C#\Tasks\obj\Debug\net7.0\Tasks.pdb
 C:\dev\C#\Tasks\obj\Debug\net7.0\Tasks.genruntimeconfig.cache
 C:\dev\C#\Tasks\obj\Debug\net7.0\ref\Tasks.dll
+C:\dev\C#\Average\bin\Debug\net7.0\Tasks.exe
+C:\dev\C#\Average\bin\Debug\net7.0\Tasks.deps.json
+C:\dev\C#\Average\bin\Debug\net7.0\Tasks.runtimeconfig.json
+C:\dev\C#\Average\bin\Debug\net7.0\Tasks.dll
+C:\dev\C#\Average\bin\Debug\net7.0\Tasks.pdb
+C:\dev\C#\Average\obj\Debug\net7.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\C#\Average\obj\Debug\net7.0\Tasks.AssemblyInfoInputs.cache
+C:\dev\C#\Average\obj\Debug\net7.0\Tasks.AssemblyInfo.cs
+C:\dev\C#\Average\obj\Debug\net7.0\Tasks.csproj.CoreCompileInputs.cache
+C:\dev\C#\Average\obj\Debug\net7.0\Tasks.dll
+C:\dev\C#\Average\obj\Debug\net7.0\refint\Tasks.dll
+C:\dev\C#\Average\obj\Debug\net7.0\Tasks.pdb
+C:\dev\C#\Average\obj\Debug\net7.0\Tasks.genruntimeconfig.cache
+C:\dev\C#\Average\obj\Debug\net7.0\ref\Tasks.dll
